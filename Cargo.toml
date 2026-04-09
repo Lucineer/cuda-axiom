@@ -3,3 +3,6 @@ name = "cuda-axiom"
 version = "0.1.0"
 edition = "2021"
 description = "Axiom language core — post-human programming language with JSON payloads and confidence types"
+
+[dependencies]
+cuda-equipment = { path = "../cuda-equipment" }
